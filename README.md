@@ -1,7 +1,5 @@
 # Hosting Link :-
 
-<a>day3-react-hw-cyan.vercel.app</a>
-
 
 
 # React + Vite
